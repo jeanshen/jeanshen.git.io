@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Jean Shen"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Jean Shen - Anything worth having is worth fighting for
 
 email: a-mail@mail.mail
 #blog logo
@@ -16,13 +16,13 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/abstract-astrology-astronomy-1169754.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Jean Shen'
+author: 'Jean Shen'
 author_image: "/assets/images/logo.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://www.jeanshen.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
@@ -34,8 +34,8 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+  - icon:	email
+    url:	shenmengjing@gmail.com
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
