@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Jean Shen"
+title: "Jean Shen's portfolio"
 description: > # this means to ignore newlines until "email:"
-   Jean Shen - Anything worth having is worth fighting for
+   Anything worth having is worth fighting for
 
 email: a-mail@mail.mail
 #blog logo
