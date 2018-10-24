@@ -4,17 +4,17 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Jean Shen's portfolio"
+title: "Jean Shen"
 description: > # this means to ignore newlines until "email:"
    Anything worth having is worth fighting for
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/logo.png"
+logo: "/assets/images/profile.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/abstract-astrology-astronomy-1169754.jpg"
+cover: "/assets/images/beach-bird-city-140966.jpg"
 
 name: 'Jean Shen'
 author: 'Jean Shen'
