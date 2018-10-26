@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "email:"
    Anything worth having is worth fighting for
 
 email: jeanshen.m@gmail.com
-blog-logo: "/assets/images/profile.png"
 logo: "/assets/images/home.png"
+blog-logo: "/assets/images/profile.png"
 float_logo: "/assets/images/profile.png"
 
 # blog cover
