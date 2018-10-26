@@ -15,14 +15,15 @@ Examples for different formats and css features
 #Header1
 ##Header2
 
-#Blockquotes
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+#Project Background
+>In 2017 I led the cross-platform redesign of Tote Swap. My responsibilities included user research, concept development, product strategy, aligning stakeholders on product goals, information architecture, designing user flows, visual design, interaction design, prototyping, user testing, and quality assurance.
 
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
+#My Role
+1. DIEIFJEIFREIFJEJIORJGOIOGE
+2. FREKOEGPOERGKEPGO
+3. GERKOGEORGKEPRG
+
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 
 ##unorderd lists
 - Apple
