@@ -16,7 +16,7 @@ Examples for different formats and css features
 ##Header2
 
 #Project Background
->In 2017 I led the cross-platform redesign of Tote Swap. My responsibilities included user research, concept development, product strategy, aligning stakeholders on product goals, information architecture, designing user flows, visual design, interaction design, prototyping, user testing, and quality assurance.
+>
 
 #My Role
 1. DIEIFJEIFREIFJEJIORJGOIOGE
