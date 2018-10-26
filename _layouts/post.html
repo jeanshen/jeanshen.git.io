@@ -112,6 +112,9 @@
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
+          {% if page.previous.url %} 
+		   <a class="btn" href="{{page.previous.url}}"><i class="fa fa-angle-left fa-lg"></i>&nbsp;&nbsp;&nbsp;{{page.previous.title}}</a> 
+		{% endif %} 
         <a href={{ "/" | prepend: site.baseurl }} class="btn">Back to Overview</a>
       </div>
     </div>
