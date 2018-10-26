@@ -8,8 +8,8 @@ title: "Jean Shen"
 description: > # this means to ignore newlines until "email:"
    Anything worth having is worth fighting for
 
-email: a-mail@mail.mail
-#blog logo
+email: jeanshen.m@gmail.com
+blog-logo: "/assets/images/profile.png"
 logo: "/assets/images/profile.png"
 float_logo: true # true, false (default)
 
