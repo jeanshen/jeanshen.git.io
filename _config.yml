@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Jean Shen"
 description: > # this means to ignore newlines until "email:"
-   Anything worth having is worth fighting for
+   a UX designer based in HK
 
 email: jeanshen.m@gmail.com
 logo: "/assets/images/logo.png"
