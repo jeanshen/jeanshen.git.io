@@ -7,7 +7,9 @@ tags:
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-#Mediator Formats and CSS features
+
+#[](/assets/article_images/2014-11-30-mediator_features/night-track.JPG)
+Mediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS featuresMediator Formats and CSS features
 
 Examples for different formats and css features
 
