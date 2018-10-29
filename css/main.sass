@@ -53,8 +53,8 @@ body
     position: absolute
     top: $rs/2
     left: $rs/2
-    width: $rs*1.5
-    height: $rs*1.5
+    width: $rs*2
+    height: $rs*2
     background-size: cover
     background-repeat: no-repeat
 
@@ -130,7 +130,7 @@ body
 
 .content
   width: 100%
-  max-width: 800px
+  max-width: 760px
   margin: 0 auto
   @include box-sizing(border-box)
   @include respond-to(800)
@@ -173,7 +173,7 @@ body
   padding-bottom: 40px
 
 .post-template .content
-  max-width: 700px
+  max-width: 760px
 
 .index-headline
   border-top: 1px solid #dededc
@@ -221,7 +221,7 @@ body
   margin: 0 auto
   padding: $rs*3 0
   width: 100%
-  max-width: 640px
+  max-width: 760px
   font-size: $rs/4*3
   text-align: center
   color: #999
@@ -240,7 +240,7 @@ body
     right: 0
     bottom: 0
     overflow: hidden
-    @media(min-width: 700px)
+    @media(min-width: 800px)
       .post-image-image
         background-size: cover
         position: absolute
@@ -253,7 +253,7 @@ body
         z-index: 1
       .post-image-image2
         display: none
-    @media(max-width: 700px)
+    @media(max-width: 800px)
       .post-image-image
         display: none
       .post-image-image2
@@ -552,7 +552,7 @@ body
     width: 100%
     position: relative
     z-index: 99
-    max-width: 640px
+    max-width: 760px
     padding: 120px 0 90px
     text-align: center
     margin: 0 auto
@@ -589,7 +589,7 @@ body
       text-decoration: none
       cursor: pointer
       height: 44px
-      background: #57ad68
+      background: #000
       color: #fff
       vertical-align: middle
       box-sizing: border-box
